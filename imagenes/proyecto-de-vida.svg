@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260">
+  <rect width="400" height="260" rx="4" fill="#F1EADC"/>
+  <circle cx="290" cy="70" r="30" fill="#B08D57"/>
+  <polygon points="40,200 130,95 220,200" fill="#5B2333"/>
+  <polygon points="150,200 245,80 360,200" fill="#3E1824"/>
+  <rect x="0" y="200" width="400" height="60" fill="#2E2A27"/>
+  <!-- camino -->
+  <path d="M170 260 C150 235 250 225 215 205 C195 192 215 180 230 175" fill="none" stroke="#F1EADC" stroke-width="10" stroke-linecap="round"/>
+  <polygon points="230,150 236,164 252,165 240,175 244,191 230,182 216,191 220,175 208,165 224,164" fill="#B08D57" transform="translate(-4,-28) scale(0.9)"/>
+</svg>
